@@ -1,0 +1,6 @@
+{
+  "name": "NPM Publishing Assistant & Security Center",
+  "description": "Unggah paket .zip Anda untuk mendapatkan analisis keamanan AI yang mendalam (SQL Injection, DDOS, Deface), validasi pra-publikasi, dan perintah rilis yang siap digunakan. Dilengkapi dengan detektor ancaman aktif.",
+  "credit": "Nathan 2025",
+  "requestFramePermissions": []
+}
